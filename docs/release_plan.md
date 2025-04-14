@@ -36,4 +36,7 @@ This document tracks the sprint-by-sprint progress of the **RetireTrack** produc
 #### 📸 Board Snapshot:
 ![Sprint 1 Day 2](../assets/board-screenshots/sprint1_day2_jira.png)
 
+#### 📉 Burndown Chart:
+![Sprint 1 Burndown Day 2](../assets/metrics/sprint1_burndown_day2.png)
+
 🧠 *Next step: Confirm RAS-1 and RAS-2 meet acceptance criteria and move to Done on Day 3.*
