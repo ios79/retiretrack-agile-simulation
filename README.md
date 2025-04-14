@@ -26,18 +26,25 @@ This is a simulated Agile project designed to demonstrate real-world application
 
 ## ✅ Current Progress
 
-| Phase | Status |
-|-------|--------|
-| Project Folder Structure | ✅ Complete |
-| Product Backlog | ✅ 5 Features, 15 Stories Added |
-| Sprint 1 Planning | 🔜 Next |
-| Sprint 1 Review | ⬜ Pending |
-| Sprint 1 Retrospective | ⬜ Pending |
-| Agile Metrics | ⬜ Pending |
-| GitHub Publication | 🔜 Upcoming |
+| Phase                  | Status                              |
+|------------------------|--------------------------------------|
+| Project Folder Structure | ✅ Complete                         |
+| Product Backlog        | ✅ 5 Features, 15 Stories Added      |
+| Sprint 1 Planning      | ✅ Complete                          |
+| Sprint 1 Execution     | 🚀 In Progress (RAS-1, RAS-2 started)|
+| Sprint 1 Review        | ⬜ Pending                           |
+| Sprint 1 Retrospective | ⬜ Pending                           |
+| Agile Metrics          | ⬜ Pending                           |
+| GitHub Publication     | ✅ Initial Push Complete             |
 
 ### 🧩 Sprint 1 Board Snapshot (Start)  
 ![Sprint 1 Jira Board](assets/board-screenshots/sprint1_board_start_jira.png)
+
+### 🗓️ Sprint Execution – Day 1 Progress
+- ✅ RAS-1 moved to In Progress
+- ✅ RAS-2 moved to In Progress
+
+![Sprint 1 Day 1 Jira Board](assets/board-screenshots/sprint1_day1_jira.png)
 
 ## 👤 Created by
 
