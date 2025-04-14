@@ -36,6 +36,9 @@ This is a simulated Agile project designed to demonstrate real-world application
 | Agile Metrics | ⬜ Pending |
 | GitHub Publication | 🔜 Upcoming |
 
+### 🧩 Sprint 1 Board Snapshot (Start)  
+![Sprint 1 Jira Board](assets/board-screenshots/sprint1_board_start_jira.png)
+
 ## 👤 Created by
 
 **Ioseb Vardoshvili**  
