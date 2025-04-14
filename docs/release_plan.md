@@ -26,6 +26,14 @@ This document tracks the sprint-by-sprint progress of the **RetireTrack** produc
 ### 📸 Board Snapshot:
 ![Sprint 1 Day 1](../assets/board-screenshots/sprint1_day1_jira.png)
 
----
+### 🗓️ Sprint 1 – Day 2 Progress (April 15)
 
-✍️ *Sprint 2 will be documented after Sprint 1 review and retrospective.*
+#### ✅ Execution Notes:
+- `RAS-3`, `RAS-4` moved to In Progress (Day 2 – April 15)
+- 🧪 Verification checklist will follow on Day 3
+- 📥 Testing plan will begin for RAS-1 and RAS-2
+
+#### 📸 Board Snapshot:
+![Sprint 1 Day 2](../assets/board-screenshots/sprint1_day2_jira.png)
+
+🧠 *Next step: Confirm RAS-1 and RAS-2 meet acceptance criteria and move to Done on Day 3.*
