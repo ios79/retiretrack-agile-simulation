@@ -37,6 +37,14 @@ This is a simulated Agile project designed to demonstrate real-world application
 | Agile Metrics          | ⬜ Pending                           |
 | GitHub Publication     | ✅ Initial Push Complete             |
 
+## 📆 Sprint Progress (High-Level)
+
+| Sprint | Focus                         | Status        |
+|--------|-------------------------------|---------------|
+| 1      | Case Intake + Docs            | 🚀 In Progress|
+| 2      | Status Tracking + Alerts      | ⬜ Not Started|
+| 3      | Reporting + Access Control    | ⬜ Not Started|
+
 ### 🧩 Sprint 1 Board Snapshot (Start)  
 ![Sprint 1 Jira Board](assets/board-screenshots/sprint1_board_start_jira.png)
 
