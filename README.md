@@ -45,6 +45,12 @@ This is a simulated Agile project designed to demonstrate real-world application
 | 2      | Status Tracking + Alerts      | ⬜ Not Started|
 | 3      | Reporting + Access Control    | ⬜ Not Started|
 
+## 📊 Agile Metrics – Sprint 1 Burndown
+
+Visual tracking of Sprint 1 progress using a burndown chart:
+
+![Sprint 1 Burndown Day 2](assets/metrics/sprint1_burndown_day2.png)
+
 ### 🧩 Sprint 1 Board Snapshot (Start)  
 ![Sprint 1 Jira Board](assets/board-screenshots/sprint1_board_start_jira.png)
 
@@ -53,6 +59,12 @@ This is a simulated Agile project designed to demonstrate real-world application
 - ✅ RAS-2 moved to In Progress
 
 ![Sprint 1 Day 1 Jira Board](assets/board-screenshots/sprint1_day1_jira.png)
+
+### 🗓️ Sprint Execution – Day 2 Progress
+- ✅ RAS-3 moved to In Progress
+- ✅ RAS-4 moved to In Progress
+
+![Sprint 1 Day 2 Jira Board](assets/board-screenshots/sprint1_day2_jira.png)
 
 ## 👤 Created by
 
