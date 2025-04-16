@@ -39,4 +39,18 @@ This document tracks the sprint-by-sprint progress of the **RetireTrack** produc
 #### 📉 Burndown Chart:
 ![Sprint 1 Burndown Day 2](../assets/metrics/sprint1_burndown_day2.png)
 
-🧠 *Next step: Confirm RAS-1 and RAS-2 meet acceptance criteria and move to Done on Day 3.*
+🧠 ~~Next step: Confirm RAS-1 and RAS-2 meet acceptance criteria and move to Done on Day 3.~~ ✅ Done
+
+### 🗓️ Sprint 1 – Day 3 Progress (April 16)
+
+#### ✅ Execution Notes:
+- `RAS-1`, `RAS-2` confirmed and moved to **Done** after validation
+- 🚧 `RAS-5`, `RAS-6` remain in **To Do** (scheduled for Day 4 execution)
+- 📤 RAS-4 testing ongoing, documents upload flow under review
+
+#### 📸 Board Snapshot:
+![Sprint 1 Day 3](../assets/board-screenshots/sprint1_day3_jira.png)
+
+#### 📉 Burndown Chart:
+*To be updated on Day 4*
+
