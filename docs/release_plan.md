@@ -52,5 +52,7 @@ This document tracks the sprint-by-sprint progress of the **RetireTrack** produc
 ![Sprint 1 Day 3](../assets/board-screenshots/sprint1_day3_jira.png)
 
 #### 📉 Burndown Chart:
-*To be updated on Day 4*
+![Sprint 1 Burndown Day 3](../assets/metrics/sprint1_burndown_day3.png)
+
+🧠 *Next step: Add Day 4 chart after next execution update*
 
