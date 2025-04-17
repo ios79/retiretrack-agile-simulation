@@ -54,5 +54,18 @@ This document tracks the sprint-by-sprint progress of the **RetireTrack** produc
 #### 📉 Burndown Chart:
 ![Sprint 1 Burndown Day 3](../assets/metrics/sprint1_burndown_day3.png)
 
-🧠 *Next step: Add Day 4 chart after next execution update*
+🧠 ~~Next step: Add Day 4 chart after next execution update~~ ✅ Done
+
+### 🗓️ Sprint 1 – Day 4 Progress (April 17)
+
+#### ✅ Execution Notes:
+- 🟢 `RAS-5`, `RAS-6` moved to **In Progress**
+- 🔄 Document review and audit logging flow implementation underway
+- 🧪 RAS-3 and RAS-4 remain under validation and refinement
+
+#### 📸 Board Snapshot:
+![Sprint 1 Day 4](../assets/board-screenshots/sprint1_day4_jira.png)
+
+#### 📉 Burndown Chart:
+*To be updated on Day 5*
 
