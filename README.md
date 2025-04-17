@@ -26,24 +26,24 @@ This is a simulated Agile project designed to demonstrate real-world application
 
 ## ✅ Current Progress
 
-| Phase                  | Status                              |
-|------------------------|--------------------------------------|
-| Project Folder Structure | ✅ Complete                         |
-| Product Backlog        | ✅ 5 Features, 15 Stories Added      |
-| Sprint 1 Planning      | ✅ Complete                          |
-| Sprint 1 Execution     | 🚀 In Progress (RAS-1, RAS-2 ✅ Done; RAS-3, RAS-4, RAS-5, RAS-6 in progress)|
-| Sprint 1 Review        | ⬜ Pending                           |
-| Sprint 1 Retrospective | ⬜ Pending                           |
-| Agile Metrics          | ⬜ Pending                           |
-| GitHub Publication     | ✅ Initial Push Complete             |
+| Phase                  | Status                                               |
+|------------------------|------------------------------------------------------|
+| Project Folder Structure | ✅ Complete                                        |
+| Product Backlog        | ✅ 5 Features, 15 Stories Added                      |
+| Sprint 1 Planning      | ✅ Complete                                          |
+| Sprint 1 Execution     | ✅ Complete (All stories Done: RAS-1 to RAS-6)       |
+| Sprint 1 Review        | ⬜ Pending                                           |
+| Sprint 1 Retrospective | ⬜ Pending                                           |
+| Agile Metrics          | ⬜ Pending                                           |
+| GitHub Publication     | ✅ Initial Push Complete                             |
 
 ## 📆 Sprint Progress (High-Level)
 
 | Sprint | Focus                         | Status        |
 |--------|-------------------------------|---------------|
-| 1      | Case Intake + Docs            | 🚀 In Progress|
-| 2      | Status Tracking + Alerts      | ⬜ Not Started|
-| 3      | Reporting + Access Control    | ⬜ Not Started|
+| 1      | Case Intake + Docs            | ✅ Completed   |
+| 2      | Status Tracking + Alerts      | ⬜ Not Started |
+| 3      | Reporting + Access Control    | ⬜ Not Started |
 
 ## 📊 Agile Metrics – Sprint 1 Burndown
 
@@ -84,6 +84,7 @@ Visual tracking of Sprint 1 progress using a burndown chart:
 - ✅ RAS-5, RAS-6 moved to Done after audit validation
 
 ![Sprint 1 Day 5 Jira Board](assets/board-screenshots/sprint1_day5_jira.png)
+
 
 ## 👤 Created by
 
