@@ -31,7 +31,7 @@ This is a simulated Agile project designed to demonstrate real-world application
 | Project Folder Structure | ✅ Complete                         |
 | Product Backlog        | ✅ 5 Features, 15 Stories Added      |
 | Sprint 1 Planning      | ✅ Complete                          |
-| Sprint 1 Execution     | 🚀 In Progress (RAS-1, RAS-2 started)|
+| Sprint 1 Execution     | 🚀 In Progress (RAS-1, RAS-2 ✅ Done; RAS-3, RAS-4 in progress)|
 | Sprint 1 Review        | ⬜ Pending                           |
 | Sprint 1 Retrospective | ⬜ Pending                           |
 | Agile Metrics          | ⬜ Pending                           |
@@ -49,7 +49,7 @@ This is a simulated Agile project designed to demonstrate real-world application
 
 Visual tracking of Sprint 1 progress using a burndown chart:
 
-![Sprint 1 Burndown Day 2](assets/metrics/sprint1_burndown_day2.png)
+![Sprint 1 Burndown Day 3](assets/metrics/sprint1_burndown_day3.png)
 
 ### 🧩 Sprint 1 Board Snapshot (Start)  
 ![Sprint 1 Jira Board](assets/board-screenshots/sprint1_board_start_jira.png)
@@ -65,6 +65,12 @@ Visual tracking of Sprint 1 progress using a burndown chart:
 - ✅ RAS-4 moved to In Progress
 
 ![Sprint 1 Day 2 Jira Board](assets/board-screenshots/sprint1_day2_jira.png)
+
+### 🗓️ Sprint Execution – Day 3 Progress
+- ✅ RAS-1 confirmed and moved to Done
+- ✅ RAS-2 confirmed and moved to Done
+
+![Sprint 1 Day 3 Jira Board](assets/board-screenshots/sprint1_day3_jira.png)
 
 ## 👤 Created by
 
