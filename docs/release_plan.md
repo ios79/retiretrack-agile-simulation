@@ -69,3 +69,18 @@ This document tracks the sprint-by-sprint progress of the **RetireTrack** produc
 #### 📉 Burndown Chart:
 ![Sprint 1 Burndown Day 4](../assets/metrics/sprint1_burndown_day4.png)
 
+### 🗓️ Sprint 1 – Day 5 Progress (April 18)
+
+#### ✅ Execution Notes:
+- ✅ `RAS-3`, `RAS-4`, `RAS-5`, `RAS-6` confirmed and moved to **Done**
+- 🎯 Sprint Goal fully achieved — no carryover needed
+- 🧪 Final validation logs and handoff notes added
+
+#### 📸 Board Snapshot:
+![Sprint 1 Day 5](../assets/board-screenshots/sprint1_day5_jira.png)
+
+#### 📉 Burndown Chart:
+![Sprint 1 Burndown Day 5](../assets/metrics/sprint1_burndown_day5.png)
+
+🧠 *Next step: Conduct Sprint 1 Retrospective before Sprint 2 Planning*
+
