@@ -49,10 +49,6 @@ This is a simulated Agile project designed to demonstrate real-world application
 
 Visual tracking of Sprint 1 progress using a burndown chart:
 
-## 📊 Agile Metrics – Sprint 1 Burndown
-
-Visual tracking of Sprint 1 progress using a burndown chart:
-
 ![Sprint 1 Burndown Day 5](assets/metrics/sprint1_burndown_day5.png)
 
 ### 🧩 Sprint 1 Board Snapshot (Start)  
