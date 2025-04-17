@@ -79,6 +79,12 @@ Visual tracking of Sprint 1 progress using a burndown chart:
 
 ![Sprint 1 Day 4 Jira Board](assets/board-screenshots/sprint1_day4_jira.png)
 
+### 🗓️ Sprint Execution – Day 5 Progress
+- ✅ RAS-3, RAS-4 confirmed and moved to Done
+- ✅ RAS-5, RAS-6 moved to Done after audit validation
+
+![Sprint 1 Day 5 Jira Board](assets/board-screenshots/sprint1_day5_jira.png)
+
 ## 👤 Created by
 
 **Ioseb Vardoshvili**  
