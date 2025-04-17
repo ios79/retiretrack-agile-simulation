@@ -8,7 +8,7 @@ This document captures the key metrics used to track the progress of Sprint 1 in
 
 The burndown chart below tracks the amount of remaining work (story points) throughout the sprint:
 
-![Sprint 1 Burndown Day 4](assets/metrics/sprint1_burndown_day4.png)
+![Sprint 1 Burndown Day 4](../assets/metrics/sprint1_burndown_day4.png)
 
 - **Sprint Length**: 10 working days (April 14 – April 28, 2025)
 - **Total Story Points**: 14
