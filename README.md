@@ -26,16 +26,16 @@ This is a simulated Agile project designed to demonstrate real-world application
 
 ## ✅ Current Progress
 
-| Phase                  | Status                                               |
-|------------------------|------------------------------------------------------|
-| Project Folder Structure | ✅ Complete                                        |
-| Product Backlog        | ✅ 5 Features, 15 Stories Added                      |
-| Sprint 1 Planning      | ✅ Complete                                          |
-| Sprint 1 Execution     | ✅ Complete (All stories Done: RAS-1 to RAS-6)       |
-| Sprint 1 Review        | ⬜ Pending                                           |
-| Sprint 1 Retrospective | ⬜ Pending                                           |
-| Agile Metrics          | ⬜ Pending                                           |
-| GitHub Publication     | ✅ Initial Push Complete                             |
+| Phase                  | Status                                           |
+|------------------------|--------------------------------------------------|
+| Project Folder Structure | ✅ Complete                                     |
+| Product Backlog        | ✅ 5 Features, 15 Stories Added                   |
+| Sprint 1 Planning      | ✅ Complete                                      |
+| Sprint 1 Execution     | ✅ Complete (All stories Done: RAS-1 to RAS-6)   |
+| Sprint 1 Review        | ✅ Complete                                      |
+| Sprint 1 Retrospective | ✅ Complete                                      |
+| Agile Metrics          | ✅ Complete                                      |
+| GitHub Publication     | ✅ Initial Push Complete                         |
 
 ## 📆 Sprint Progress (High-Level)
 
