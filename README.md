@@ -87,8 +87,10 @@ Visual tracking of Sprint 1 progress using a burndown chart:
 
 ## 📈 Value Stream Mapping
 
-See how value flows from intake to delivery in the RetireTrack simulation:  
-👉 [View Value Stream Mapping](docs/value_stream_mapping_retiretrack.md)
+See how value flows from intake to delivery in the RetireTrack simulation.  
+🛠️ Diagram created using Microsoft Visio to reflect Agile/SAFe team handoffs and flow.
+
+👉 [View Full Value Stream Mapping](docs/value_stream_mapping_retiretrack.md)
 
 ## 👤 Created by
 
