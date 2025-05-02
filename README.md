@@ -85,6 +85,10 @@ Visual tracking of Sprint 1 progress using a burndown chart:
 
 ![Sprint 1 Day 5 Jira Board](assets/board-screenshots/sprint1_day5_jira.png)
 
+## 📈 Value Stream Mapping
+
+See how value flows from intake to delivery in the RetireTrack simulation:  
+👉 [View Value Stream Mapping](docs/value_stream_mapping_retiretrack.md)
 
 ## 👤 Created by
 
