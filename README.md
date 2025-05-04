@@ -14,6 +14,7 @@ This is a simulated Agile project designed to demonstrate real-world application
   - Managing the backlog
   - Leading sprint planning and reviews
   - Tracking Agile metrics
+- Demonstrate knowledge of Definition of Done and acceptance criteria in SAFe
 - Showcase ability to support sprint execution and operational readiness
 - Build a GitHub portfolio project for resume and interview use
 
