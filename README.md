@@ -92,6 +92,8 @@ See how value flows from intake to delivery in the RetireTrack simulation.
 
 👉 [View Full Value Stream Mapping](docs/value_stream_mapping_retiretrack.md)
 
+📋 [Definition of Done (DoD)](docs/definition_of_done.md) – Clear criteria for when a feature or story is considered complete.
+
 ## 👤 Created by
 
 **Ioseb Vardoshvili**  
