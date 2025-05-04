@@ -9,6 +9,7 @@ Field validations working	Submit with empty fields	✅ Passed
 Field accepts valid inputs	Enter valid client name, address	✅ Passed
 Successful submission flow	Fill and submit form	✅ Passed
 Data persistence	Confirm saved case exists	✅ Passed
+
 🧪 RAS-2 – Assign Cases to Team Members
 Test Scenario	Test Step	Status
 Case list loads	Open Case Assignment screen	✅ Passed
@@ -16,6 +17,7 @@ Team members visible	Dropdown of users loads	✅ Passed
 Assignment logic	Assign case and confirm	✅ Passed
 Feedback provided	Confirmation appears	✅ Passed
 Persistence check	Reopen case, assignment remains	✅ Passed
+
 📌 Summary
 ✅ All test scenarios passed for RAS-1 and RAS-2
 
