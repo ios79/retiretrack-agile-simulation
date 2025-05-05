@@ -38,7 +38,8 @@ In highly regulated environments like **financial services**, audit and complian
 
 - We explicitly list **compliance checks** as test steps  
 - Example: “Verify document upload is timestamped and user-tagged”  
-- ✅ Results logged in `docs/testing_checklist_sprint1.md`
+- ✅ [Results logged in testing_checklist_sprint1.md](docs/testing_checklist_sprint1.md)
+
 
 ---
 
