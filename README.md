@@ -22,10 +22,12 @@ This is a simulated Agile project designed to demonstrate real-world application
 ## 📂 Project Structure
 
 - `/backlog/` → Features and user stories (Product Backlog)  
-  – Includes a sample illustrating our approach to story writing, acceptance criteria, and DoD  
+  – Includes a sample illustrating our approach to story writing, acceptance criteria, and Definition of Done  
 - `/docs/` → Sprint plans, reviews, retrospectives, and metrics  
 - `/assets/` → Visual diagrams or mockups  
-- `/tools/` → Screenshots of Agile tools (e.g., Jira, Trello) [optional]
+- `/tools/` → Screenshots of Agile tools (e.g., Jira, Trello) [optional]  
+- `/guides/` → Agile practice guides covering feature/story structure, estimation, DoD, compliance, and more
+
 
 ## 📚 Agile Practice Guides
 
