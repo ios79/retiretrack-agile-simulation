@@ -29,7 +29,7 @@ We follow a structured, proactive approach that includes:
 - Final regression and functional tests passed  
 - QA sign-off documented  
 - Test cases linked to Acceptance Criteria and Definition of Done  
-- Audit checkpoints reviewed (see `08_audit_compliance_agile_guide.md`)
+- Audit checkpoints reviewed (see [08_audit_compliance_agile_guide.md](08_audit_compliance_agile_guide.md))
 
 ---
 
