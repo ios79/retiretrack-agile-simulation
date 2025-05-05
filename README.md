@@ -15,15 +15,32 @@ This is a simulated Agile project designed to demonstrate real-world application
   - Leading sprint planning and reviews
   - Tracking Agile metrics
 - Demonstrate knowledge of Definition of Done and acceptance criteria in SAFe
+- Apply best practices like INVEST, Who-What-Why formatting, and Gherkin-style ACs
 - Showcase ability to support sprint execution and operational readiness
 - Build a GitHub portfolio project for resume and interview use
 
 ## 📂 Project Structure
 
-- `/backlog/` → Features and user stories (Backlog)
-- `/docs/` → Sprint plans, reviews, retrospectives, and metrics
-- `/assets/` → Visual diagrams or mockups
+- `/backlog/` → Features and user stories (Product Backlog)  
+  – Includes a sample illustrating our approach to story writing, acceptance criteria, and DoD  
+- `/docs/` → Sprint plans, reviews, retrospectives, and metrics  
+- `/assets/` → Visual diagrams or mockups  
 - `/tools/` → Screenshots of Agile tools (e.g., Jira, Trello) [optional]
+
+## 📚 Agile Practice Guides
+
+Explore detailed internal guides we created for this simulation, covering:
+
+- [Feature Structure Guide](guides/01_feature_structure_guide.md)
+- [User Story Structure Guide](guides/02_user_story_structure_guide.md)
+- [Acceptance Criteria Guide](guides/03_acceptance_criteria_guide.md)
+- [Definition of Done Checklist](guides/04_definition_of_done_checklist.md)
+- [Story Point Estimation Guide](guides/05_story_point_estimation_guide.md)
+- [Prioritization Techniques](guides/06_prioritization_techniques.md)
+- [Operational Readiness Guide](guides/07_operational_readiness_guide.md)
+- [Audit & Compliance in Agile](guides/08_audit_compliance_agile_guide.md)
+
+
 
 ## ✅ Current Progress
 
